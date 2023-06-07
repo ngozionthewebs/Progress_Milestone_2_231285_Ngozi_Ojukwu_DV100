@@ -51,7 +51,164 @@ nav li:hover{
 }
 
 .background{
-    height: 1810px;
+    height: 1000px;
     background-color: #FFC000;
     margin-top: -10px;
+}
+
+.sandwich-backdrop{
+    width: 1200px;
+    height: 630px;
+    background-image: url(../assets/backdrop-2.png);
+    margin-left: 100px;
+    margin-top: -200px;
+}
+
+.big-circles{
+    margin-left: 250px;
+    margin-top: 50px;
+
+}
+
+.big-circle-one{
+    width: 79px;
+    height: 79px;
+
+    margin-left: 130px;
+
+}
+
+.big-circle-two{
+    width: 79px;
+    height: 79px;
+    margin-left: 670px;
+    margin-top: -80px;
+}
+
+form{
+    font-family: 'Poppins', sans-serif;
+   
+}
+.heading h3{
+
+
+    text-align: center;
+    font-weight: 500;
+    font-size: 48px;
+    color: #B50202;
+    margin-top: -50px;
+
+}
+
+.form-control{
+    width: 920px;
+    height: 66px;
+    margin-left: 260px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+.bread-options h3{
+    font-size: 24px;
+    font-weight: 700;
+    color: #B50202;
+}
+
+.form-check-label{
+    color: white;
+    font-weight: 500;
+}
+
+.bread-options{
+    margin-left: 100px;
+}
+
+.toppings h3{
+    font-size: 24px;
+    font-weight: 700;
+    color: #B50202;
+    text-align: center;
+
+}
+
+.topping-options{
+    width: 33%;
+    float: left;
+}
+
+.sauce-options{
+    margin-left: 30px;
+}
+
+.sauce-options h3{
+    font-size: 24px;
+    font-weight: 700;
+    color: #B50202;
+    margin-left: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    width: 100%;
+    height: 150px;
+    background-color:#B50202 ;
+    border : 3px dashed #FFFFFF ;
+    border-radius: 35px;
+    margin-top: -20px;
+}
+.bottom{
+    width: 100%;
+    height: 40px;
+    background-color: #B50202;
+    margin-top: 105px;
+}
+
+.footer-logo{
+    inline-size: 160px;
+   
+    margin-left: 70px;
+    margin-top: -110px;
+}
+
+.copyright{
+    padding-left:510px ;
+    margin-top: -50px;
+}
+
+.socials{
+  
+    padding-left:1040px ;
+    margin-top: -50px;
 }
