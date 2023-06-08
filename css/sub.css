@@ -61,7 +61,7 @@ nav li:hover{
     height: 630px;
     background-image: url(../assets/backdrop-2.png);
     margin-left: 100px;
-    margin-top: -200px;
+    margin-top: -360px;
 }
 
 .big-circles{
@@ -211,4 +211,19 @@ form{
   
     padding-left:1040px ;
     margin-top: -50px;
+}
+
+.cost-box{
+    width: 403px;
+    height: 69px;
+    background-color:rgba(255, 255, 255, 0.8);
+    text-align: center;
+    font-weight: 500;
+    border: 2px dashed #B50202;
+    font-size: 48px;
+    line-height: 72px;
+    color: #B50202;
+    border-radius: 20px;
+    margin-left: 530px;
+    margin-top: 60px;
 }
